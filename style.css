@@ -1,0 +1,155 @@
+body{
+    width: 100%;
+    margin: 0;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+h4{
+    color: rgba(255, 131, 103, 1);
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: rgba(62, 62, 62, 1);
+}
+a{
+    font-family: 'Roboto', sans-serif;
+}
+#hello{
+    color: rgba(54, 57, 88, 1);
+}
+#name{
+    color: rgba(255, 131, 103, 1);
+
+}
+.welcome{
+    font-weight: 500;
+    font-size: 80px;
+    line-height: 10px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, red, orange);
+    padding: 15px 23px;
+    border-radius: 5px;
+    color: white;
+}
+section{
+    height: 500px;
+}
+#about-title{
+    font-size: 48px;
+    color: rgba(54, 57, 88, 1);
+}
+.work{
+    background-color: rgba(229, 229, 229, 1);
+    padding: 5% 12% 5% 12%;
+    height: 400px;
+    text-align: center;
+    
+}
+.work-style{
+    text-align: left;
+}
+
+.word-style{
+    color: rgba(244, 96, 96, 1);
+}
+.work h1{
+    color: rgba(54, 57, 88, 1);
+    font-size: 48px;
+}
+.projects{
+    width: 28%;
+    float: left;
+    background-color: white;
+    padding: 10px;
+    margin-left: 3%;
+    border-radius: 15px;
+    
+}
+.projects img{
+    width: 90%;
+    text-align: center;
+}
+.projects h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.exp-style{
+    text-align: left;
+}
+.single{
+    float: left;
+}
+.single a{
+    padding: 10px;
+}
+.work-inq{
+    padding-top: 150px;
+    height: 300px;
+    border: none;
+   
+    background-image: url("images/last-bg.png");
+    background-repeat: no-repeat;
+    background-size: 60% 50%;
+    background-position: center;
+    
+}
+.work-inq img{
+    width: 30%;
+    height: 300px;
+}
+#w-inq{
+    margin-left: 360px;
+    margin-top: 6%;
+    color: rgba(255, 255, 255, 1);
+    font-size: 64px;
+    
+}
+#chat-btn{
+    margin-left: 290px;
+    margin-top: 140px;
+    
+}
+.link-icon{
+    float: left;
+    
+}
+.link-icon img{
+    width: 40%;
+}
+footer{
+    text-align: center;
+    height: 200px;
+}
+footer h2{
+    color: rgba(105, 104, 113, 1);
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+}
+footer h1{
+    font-family: 'Roboto', sans-serif;
+    color: rgba(54, 57, 88, 1);
+    font-weight: bold;
+    font-size: 36px;
+}
+.contact{
+    height: 150px;
+    width: 50%;
+    padding: 0%;
+    margin: 0% 37% ;
+}
+
